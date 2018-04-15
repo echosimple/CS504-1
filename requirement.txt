@@ -1,6 +1,0 @@
-Code check out
-Code check in
-Code snap shot (or release point)
-Code in development by two users, first one checks out code, second checks out code, makes changes and checks in, first makes changes and needs to check in.
-Code changes need to be rolled back to a previous level.
-One developer is working on an new version, one is fixing bugs in a previous release.
